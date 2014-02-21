@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=playerName\ stringYear1\ stringYear2\ stringYear3
+comment0.target=OctalOrbPlayer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Default\ Constructor\ to\ create\ an\ object\ of\ the\ OctalOrbPlayer\ class.\r\n\ All\ objects\ of\ this\ class\ have\ the\ planet\ name\ "Octal\ Orb"\ and\ the\ numberBase\ of\ 8\r\n\ (as\ you\ can\ see\ in\ the\ constructor).\ \ The\ constructor\ passes\ its\ arguments\r\n\ to\ its\ superclass\ to\ instantiate\ the\ object.\r\n
+comment1.params=
+comment1.target=void\ toDecimal()
+comment1.text=\r\n\ Method\ that\ changes\ the\ player's\ octal\ values\ (base\ 8)\ for\ home\ runs\ into\ decimal\ (base\ 10)\ values\r\n\ using\ the\ "parseInt()"\ method\ of\ the\ Integer\ class.\r\n
+comment2.params=playerList
+comment2.target=void\ printResults(java.util.List)
+comment2.text=\r\n\ This\ method\ prints\ out\ the\ results\ for\ a\ player\ from\ OCtal\ Orb\ in\ base\ 8\ (Octal)\ by\ using\ a\ for-each\ loop.\r\n\ @param\ playerList\ The\ list\ of\ players\ sorted\ by\ their\ average\ number\ of\ home\ runs\ (highest\ to\ lowest).\r\n
+numComments=3

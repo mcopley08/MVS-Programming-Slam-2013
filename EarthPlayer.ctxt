@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=playerName\ stringYear1\ stringYear2\ stringYear3
+comment0.target=EarthPlayer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Default\ Constructor\ to\ create\ an\ object\ of\ the\ EarthPlayer\ class.\r\n\ All\ objects\ of\ this\ class\ have\ the\ planet\ name\ "Earth"\ and\ the\ numberBase\ of\ 10\r\n\ (as\ you\ can\ see\ in\ the\ constructor).\ \ The\ constructor\ passes\ its\ arguments\r\n\ to\ its\ superclass\ to\ instantiate\ the\ object.\r\n
+comment1.params=
+comment1.target=void\ toDecimal()
+comment1.text=\r\n\ Method\ that\ sets\ the\ player's\ string\ values\ for\ their\ amount\ of\ home\ runs\ to\ the\ object's\ \r\n\ respective\ "int"\ variables\ for\ each\ of\ them\ (No\ number\ base\ conversion\ is\ needed,\ because\r\n\ the\ string\ is\ already\ in\ Decimal\ format).\ This\ also\ uses\ the\ "parsenInt()"\ method.\r\n
+comment2.params=playerList
+comment2.target=void\ printResults(java.util.List)
+comment2.text=\r\n\ This\ method\ prints\ out\ the\ results\ for\ a\ player\ from\ Earth\ in\ base\ 10\ (Decimal).\r\n\ @param\ playerList\ The\ list\ of\ players\ sorted\ by\ their\ average\ number\ of\ home\ runs\ (highest\ to\ lowest).\r\n
+numComments=3
